@@ -30,9 +30,10 @@ print("Swapped values are:",num1,num2)
 ```
 ## OUTPUT:
 
+![swap](https://user-images.githubusercontent.com/119292258/225537806-c65979f8-f7c4-4948-984a-6f24beb45ea1.png)
 
 
- file:///home/sec/Swapping-two-values/swap.png
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
